@@ -6,3 +6,8 @@
 
 ## Blogs
 [Christopher Olah](http://colah.github.io/)
+
+
+## Libraries
+* TF Learn (First steps in deep learning)
+* Tensorflow (Research, Production)
