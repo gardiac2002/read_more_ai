@@ -14,4 +14,4 @@
 
 
 ## Websites
-* [Deep Learning.net](http://deeplearning.net/) the website lists tutorials, data sets and a reading list.
+* [Deep Learning.net](http://deeplearning.net/): the website lists tutorials, data sets and a reading list.
