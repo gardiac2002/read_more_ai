@@ -11,3 +11,7 @@
 ## Libraries
 * TF Learn (First steps in deep learning)
 * Tensorflow (Research, Production)
+
+
+## Websites
+* [Deep Learning.net](http://deeplearning.net/) the website lists tutorials, data sets and a reading list.
