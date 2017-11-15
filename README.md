@@ -24,6 +24,7 @@
 ## Libraries
 * TF Learn (First steps in deep learning)
 * Tensorflow (Research, Production)
+* [CNTK](https://github.com/Microsoft/CNTK)
 
 
 ## Websites
